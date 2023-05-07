@@ -6,6 +6,7 @@
 - Техническим писателям
 - Начинающим айтишникам
 ![Моя аудитория](My_audience.png)
+- Всяким другим xDD
 
 Мои соцсети:
 - [Facebook](https://www.facebook.com/Jariffor)
