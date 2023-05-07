@@ -8,6 +8,7 @@
 ![Моя аудитория](My_audience.png)
 - Всяким другим xDD
 
-Мои соцсети:
+Мои Ссылки:
 - [Facebook](https://www.facebook.com/Jariffor)
 - [Linkedin](https://www.linkedin.com/in/filinkov-ivan/)
+- [Сайт](https://filinkov.org)
