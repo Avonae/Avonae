@@ -11,7 +11,7 @@ My links:
 - [Eng Blog](https://filinkov.org)
 
 ## 😈 Badges
-
+![n8n Badge](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
