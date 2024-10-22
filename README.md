@@ -1,6 +1,6 @@
 ## Hi there I'm Ivan ✌
 
-I've been working in IT for 13 years. I started in tech support for a provider, then became a system administrator, and eventually moved into project management.✍️ I love writing and have been doing it almost my entire life.
+I've been working in IT for 13 years. I started in tech support for a provider, then became a system administrator, and eventually moved into project management.✍️ I have a passion for writing and have been doing it throughout my entire life.
 
 I run ✏️[Telegram channel](https://t.me/Press_Any) (in Russian) where I share my work experiences, useful tips, and internet security advice. I enjoy explaining complex things in simple terms. The channel will be useful for:
 
