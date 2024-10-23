@@ -4,7 +4,7 @@ I've been working in IT for 13 years. I started in tech support for a provider, 
 
 I run ✏️[Telegram channel](https://t.me/Press_Any) (in Russian) where I share my work experiences, useful tips, and internet security advice. I enjoy explaining complex things in simple terms. The channel will be useful for:
 
-My CV: [Ivan Filinkov](https://github.com/Avonae/Public/blob/2cb2e4da6667261af17e6d6bc7b2231808db6c4c/Filinkov_Ivan_Project_manager.docx)
+My CV: [Ivan Filinkov](https://github.com/Avonae/Public/raw/2cb2e4da6667261af17e6d6bc7b2231808db6c4c/Filinkov_Ivan_Project_manager.docx)
 
 My links:
 - [Linkedin](https://www.linkedin.com/in/filinkov-ivan/)
