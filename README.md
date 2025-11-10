@@ -34,9 +34,3 @@ My links:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## Projects
-I'm not a Dev but I do like to make automation. 
-
-### [TeamSpeak server with 1 command](https://github.com/Avonae/TS-Docker-Install/)
-This script was inspired by the blocking of Discord in Russia. The script allows you to set up a Teamspeak server in 1 command in 10 minutes if you have SSH access to the server.
