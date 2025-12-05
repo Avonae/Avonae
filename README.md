@@ -2,7 +2,7 @@
 
 I've been working in IT for 13 years. I started in tech support for a provider, then system administrator, technical writer and eventually moved into project management.✍️ I have a passion for writing and have been doing it throughout my entire life.
 
-I run ✏️[Telegram channel](https://t.me/Press_Any) (in Russian) where I share my work experiences, useful tips, and internet security advice. I enjoy explaining complex things in simple terms. The channel will be useful for:
+I run ✏️[Telegram channel](https://t.me/Press_Any) (on Russian) where I share my work experiences, useful tips, and internet security advice. I enjoy explaining complex things in simple terms. The channel will be useful for:
 
 My CV: [Ivan Filinkov](https://github.com/Avonae/Public/raw/2cb2e4da6667261af17e6d6bc7b2231808db6c4c/Filinkov_Ivan_Project_manager.docx)
 
