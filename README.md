@@ -8,7 +8,7 @@ My CV: [Ivan Filinkov](https://filinkov.org/cv-eng)
 
 My links:
 - [Linkedin](https://www.linkedin.com/in/filinkov-ivan/)
-- [Eng Blog](https://filinkov.org)
+- [Blog](https://filinkov.org)
 
 ## 😈 Badges
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
